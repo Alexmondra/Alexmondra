@@ -1,5 +1,4 @@
-<h2 Hello! My name is Alex Mondragón, and I am a student of Systems Engineering. I am passionate about technology and constantly seeking to expand my knowledge and skills in this field. On my GitHub, you will find various projects and repositories that reflect my journey in learning and mastering different aspects of systems engineering.
-</h2>
+<h2> Hello! My name is Alex Mondragón, and I am a student of Systems Engineering. I am passionate about technology and constantly seeking to expand my knowledge and skills in this field. On my GitHub, you will find various projects and repositories that reflect my journey in learning and mastering different aspects of systems engineering </h2>
 
 ###
 
