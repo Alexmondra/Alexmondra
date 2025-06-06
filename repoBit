@@ -3,3 +3,4 @@ sudo apt install mariadb-server mariadb-client -y
 sudo systemctl start mariadb
 sudo systemctl enable mariadb
 sudo mysql_secure_installation
+pip install flask flask-cors flask-socketio flask-jwt-extended mysql-connector-python bcrypt numpy faiss-cpu torch torchvision facenet-pytorch pillow pytz requests opencv-python
