@@ -4,3 +4,8 @@ sudo systemctl start mariadb
 sudo systemctl enable mariadb
 sudo mysql_secure_installation
 pip install flask flask-cors flask-socketio flask-jwt-extended mysql-connector-python bcrypt numpy faiss-cpu torch torchvision facenet-pytorch pillow pytz requests opencv-python
+sudo apt install python3-venv
+
+
+python3 -m venv face
+source face/bin/activate
