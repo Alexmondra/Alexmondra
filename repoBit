@@ -9,3 +9,6 @@ sudo apt install python3-venv
 
 python3 -m venv face
 source face/bin/activate
+
+pip install flask flask-cors flask-socketio flask-jwt-extended mysql-connector-python bcrypt numpy pytz requests pillow opencv-python
+pip install --default-timeout=200 torch torchvision facenet-pytorch faiss-cpu
