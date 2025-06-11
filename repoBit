@@ -12,3 +12,5 @@ source face/bin/activate
 
 pip install flask flask-cors flask-socketio flask-jwt-extended mysql-connector-python bcrypt numpy pytz requests pillow opencv-python
 pip install --default-timeout=200 torch torchvision facenet-pytorch faiss-cpu
+
+https://we.tl/t-d9gc7ikOSD?utm_campaign=TRN_TDL_05&utm_source=sendgrid&utm_medium=email&trk=TRN_TDL_05
